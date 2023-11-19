@@ -3,3 +3,11 @@
 ## this is a h2 header
 ### this is a h3 header
 ###### this is a h6 header
+
+
+```
+$ git init
+
+Initialized empty Git repository in /home/hamza/markdown_exercise/.git
+
+```
