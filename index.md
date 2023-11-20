@@ -11,3 +11,7 @@ $ git init
 Initialized empty Git repository in /home/hamza/markdown_exercise/.git
 
 ```
+
+- [ ] add a picture to the index file
+- [ ] add a code snippet to the index file
+- [ ] add a task list to the index file
